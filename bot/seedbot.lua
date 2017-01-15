@@ -283,21 +283,8 @@ Based on LUA. 🌐
 🔴 Powerfull
 
 🔵Sudoes:
-🔵 @Nort_Admin
-🔵 @WebShark25
-
-⚫️ Contact US (If You are report):
-⚫️ @WebShark25_Bot
-⚫️ @Nort_Admin_Bot
-
-⚪️ Website :
-Www.AntiSpam.nort.ir
-
-⚪️ To Buy a group, Please Contact the Sudoes.
-
-⚪️ Git Hub: 
-Http://github.com/nort-ir
-
+🔵 @C_N_A
+		
 ⚪️ Join the Official Support group by typing:
 /support
 >>>>>>> caa52453e138b7d766c15f30093b89bfe477e719
